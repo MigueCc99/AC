@@ -7,7 +7,7 @@
 
 int main(){
     int i, n = 7;
-    int a[n], suma = 5;
+    int a[n], suma;
 
     for(i = 0; i < n; i++)
         a[i] = i;

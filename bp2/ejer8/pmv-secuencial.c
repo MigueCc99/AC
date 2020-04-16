@@ -3,8 +3,8 @@
 #include <time.h>
 #include <malloc.h>
 
-#define GLOBAL
-//#define DINAMIC
+//#define GLOBAL
+#define DINAMIC
 
 #ifdef GLOBAL
 	#define MAX 33554432
